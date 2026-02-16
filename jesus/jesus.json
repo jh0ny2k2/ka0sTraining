@@ -1,0 +1,13 @@
+{
+
+    "name": "Jesús Martínez",
+    "age": 46,
+    "email": "jesus.martinez@example.com",
+    "phone": "123-456-7890",
+    "address": {
+        "street": "123 Main St",
+        "city": "GRANADA",
+        "state": "CA",
+        "zip": "12345"
+    }
+}
